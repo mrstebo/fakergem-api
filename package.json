@@ -26,7 +26,8 @@
   },
   "dependencies": {
     "express": "^4.15.2",
-    "fakergem": "0.0.20",
+    "fakergem": "0.0.21",
+    "moment": "^2.18.1",
     "morgan": "^1.8.1"
   }
 }
