@@ -1,0 +1,6 @@
+{
+  "name": "Fakergem API",
+  "description": "An API for the fakergem library.",
+  "repository": "https://github.com/mrstebo/fakergem-api",
+  "keywords": ["node", "express", "fakergem", "faker", "api"]
+}
