@@ -4,7 +4,7 @@
   "description": "An API for the fakergem library.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nf start",
     "dev": "./node_modules/.bin/nodemon index.js"
   },
   "repository": {
@@ -16,7 +16,7 @@
     "api"
   ],
   "author": "Steven Atkinson <mrstebouk@gmail.com>",
-  "license": "https://github.com/mrstebo/fakergem-api/LICENSE",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mrstebo/fakergem-api/issues"
   },
@@ -27,7 +27,11 @@
   "dependencies": {
     "express": "^4.15.2",
     "fakergem": "0.0.21",
+    "foreman": "^2.0.0",
     "moment": "^2.18.1",
     "morgan": "^1.8.1"
+  },
+  "engines": {
+    "node": "6.3.0"
   }
 }
