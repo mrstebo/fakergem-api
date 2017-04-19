@@ -1,0 +1,26 @@
+{
+  "name": "fakergem-api",
+  "version": "1.0.0",
+  "description": "An API for the fakergem library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrstebo/fakergem-api.git"
+  },
+  "keywords": [
+    "fakergem",
+    "api"
+  ],
+  "author": "Steven Atkinson <mrstebouk@gmail.com>",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/mrstebo/fakergem-api/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/mrstebo/fakergem-api/issues"
+  },
+  "homepage": "https://github.com/mrstebo/fakergem-api#readme"
+}
